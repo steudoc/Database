@@ -2,12 +2,12 @@
 
 ![Database Systems Cover](./cover.png)
 
-## 📖 Description
+## Description
 A collection of relational database design projects, data definition/manipulation scripts, and SQL laboratory assignments developed for the **Basi di Dati** (Database Systems) course during the second semester of my second year in Computer Engineering at **Politecnico di Torino**. The repository spans the full database lifecycle: conceptual modeling using Entity-Relationship (ER) diagrams, logical relational schema normalization, complex declarative querying in SQL, and trigger-based procedural automation in PL/SQL.
 
 ---
 
-## 📌 Core Competencies & Topics Covered
+## Core Competencies & Topics Covered
 
 * **Conceptual Data Modeling:** Designing structured Entity-Relationship (ER) schemas, defining cardinalities, identifying weak entities, and modeling generalization hierarchies.
 * **Logical Relational Design & Normalization:** Mapping ER diagrams to relational tables, managing primary and foreign key constraints, and applying functional dependency normalization (1NF, 2NF, 3NF, BCNF) to eliminate data redundancy.
@@ -18,7 +18,7 @@ A collection of relational database design projects, data definition/manipulatio
 
 ---
 
-## 🛠️ Technologies & Tools
+## Technologies & Tools
 
 * **Query Languages:** SQL
 * **RDBMS Engines:** Oracle Database / SQLite
